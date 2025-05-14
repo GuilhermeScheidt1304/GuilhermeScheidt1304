@@ -11,6 +11,8 @@ Estudante de T.I
    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 </div>
 
+##
+
 ### Você Também me Encontra em:
 
 <div display='inline'>
